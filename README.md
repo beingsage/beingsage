@@ -1,6 +1,5 @@
 Building next-gen AI systems at the intersection of neuroscience, cognition, and large-scale engineering.
 
-![Demo](demo.gif)
 ---
 
 ## 📬 Want to collaborate?
@@ -106,5 +105,7 @@ If you're building something that wants systems, scale, or a curious brain to pr
 This README is a scaffold — a loud, generous signal to humans, coders, and curious machines. Make it yours: shorten, expand, or turn it into a manifesto for whatever you want to build next.
 
 ---
+
+![Demo](demo.gif)
 
 *— Sujal (a software engineer who builds toward tomorrow)*
