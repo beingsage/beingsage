@@ -1,5 +1,29 @@
 Building next-gen AI systems at the intersection of neuroscience, cognition, and large-scale engineering.
 
+---
+
+## 📬 Want to collaborate?
+If you're building something that wants systems, scale, or a curious brain to prod at the edges — open an issue, ping me on GitHub, or email `your.email@example.com`.
+
+---
+
+## 🔧 How to customize quickly
+1. Rename this repo to your exact GitHub username (e.g., `YOUR_USERNAME`).  
+2. Replace all `YOUR_USERNAME` placeholders with your GitHub username.  
+3. Replace `your.email@example.com` with an email you want to show (or remove it).  
+4. Fill the Projects section with live repo links.  
+5. Commit & push — your profile page will show this README automatically.
+
+---
+
+## 🛰️ Final note
+This README is a scaffold — a loud, generous signal to humans, coders, and curious machines. Make it yours: shorten, expand, or turn it into a manifesto for whatever you want to build next.
+
+---
+
+*— Sujal (a software engineer who builds toward tomorrow)*
+
+
 
 
 # 👋 Hi — I'm Sujal
