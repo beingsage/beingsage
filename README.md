@@ -1,5 +1,5 @@
 <p align="center">
-  Build next-gen AI systems at the intersection of neuroscience, cognition, and large-scale engineering.
+  Building next-gen AI systems at the intersection of neuroscience, cognition, and large-scale engineering.
 </p>
 <table align="center" style="border-collapse: separate; border-spacing: 18px; margin: 32px auto; max-width: 900px;">
   <tr>
